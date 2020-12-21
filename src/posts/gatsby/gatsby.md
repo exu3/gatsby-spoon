@@ -5,6 +5,8 @@ date: "2012-04-04"
 
 Lorem Ipsum text text text.
 
+![cat](./cat.jpeg)
+
 ## Read Below
 
 1. Cool
